@@ -12,6 +12,9 @@ description:      'A place where <a href="https://github.com/auntieNeo">Jonathan
 url:              http://www.auntieNeo.net
 paginate:         5
 
+site:
+  baseurl:        '/'
+
 author:
   name:           'Jonathan Glines'
   url:            https://github.com/auntieNeo
