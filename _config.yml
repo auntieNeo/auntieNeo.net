@@ -1,24 +1,20 @@
 # Dependencies
 markdown:         redcarpet
-pygments:         true
+highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
 
 # Setup
-title:            Lanyon
-tagline:          'A Jekyll theme'
-description:      'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://lanyon.getpoole.com
-
-author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
-
+title:            "auntie's blag"
+tagline:          'part of this complete breakfast'
+description:      'A place where <a href="https://github.com/auntieNeo">Jonathan Glines</a> sometimes writes stuff about programming, Linux, game devolpment, and Japanese.'
+url:              http://auntieNeo.net
 paginate:         5
 
-# Custom vars
-version:          1.0.0
+author:
+  name:           'Jonathan Glines'
+  url:            https://twitter.com/mdo
 
 github:
-  repo:           https://github.com/poole/lanyon
+  profile:        https://github.com/auntieNeo
