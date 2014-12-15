@@ -10,10 +10,10 @@ title:            "auntie's blag"
 tagline:          'part of this complete breakfast'
 description:      'A place where <a href="https://github.com/auntieNeo">Jonathan Glines</a> sometimes writes stuff about programming, Linux, game devolpment, and Japanese.'
 url:              http://www.auntieNeo.net
-paginate:         5
+paginate:         3
 
 site:
-  baseurl:        '/'
+  baseurl: '/'
 
 author:
   name:           'Jonathan Glines'
